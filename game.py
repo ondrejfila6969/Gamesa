@@ -36,7 +36,7 @@ pygame.mixer.music.play()
 
 # pygame.mixer.music.play()
 
-# Pes:
+# Notebook:
 notebook_image = pygame.image.load("Pictures/notebook.png")
 notebook_image_rect = notebook_image.get_rect()
 
@@ -86,15 +86,11 @@ while lets_continue:
         python_rect.centery = random.randint(60 + 27, height - 22)
         print(python_rect.centery)
 
-
-        
-        
     # Překrývání obrazovky:
     screen.fill(black)
     
     # Ohraničení:
     pygame.draw.line(screen, yellow, (0, 60), (width, 60), 2)        
-
 
     # Text skore:
     score_text = custom_font.render(f"Score: {score}", True, yellow)
