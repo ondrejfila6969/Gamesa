@@ -6,7 +6,7 @@ pygame.init()
 width = 1200
 height = 600
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Python x Java")
+pygame.display.set_caption("Python hunter")
 
 # Nadefinované barvy (RGB):
 red = (255, 0, 0)
@@ -25,7 +25,7 @@ score = 0
 # Custom font:
 custom_font = pygame.font.Font("Font/custom.otf", 40)
 
-custom_text = custom_font.render("Python x Java", True, yellow)
+custom_text = custom_font.render("Python hunter", True, yellow)
 custom_rect = custom_text.get_rect()
 
 custom_rect.center = (width//2, 30)
