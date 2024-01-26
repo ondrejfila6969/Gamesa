@@ -10,7 +10,7 @@ Jak si můžete zahrát tuto hru ? Velmi jednoduše xd
    c) py -m pip install "pygame" (Stažení modulu pygame, přes který jsem tuto hru programoval)
 
 3) Po úspěšném stažení si vlezte do mého repozitáře a stáhněte si kód pomocí gitBash (nebo zkomprimovanou složku, ale to je pro 0 IQ enjoyers)
-4) Zapněte si VSC a enjoy :D
+4) Dvakrát klikněte na soubor game.py a enjoy (Případně to spusťte pomocí VSC, pokud by to nešlo spustit napřímo)
 
 
 + ještě přikládám menší ukázku, jak to vypadá (nečekejte, že to bude bůhví jak výborná hra, přeci jen jsem to udělal v době, když jsem s pygame začínal :)
