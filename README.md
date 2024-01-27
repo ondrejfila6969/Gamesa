@@ -1,4 +1,4 @@
-Jak si můžete zahrát tuto hru ? Velmi jednoduše xd
+<h1>Recept na výborný domácí guláš</h1>
 
 1) Otevřete si command prompt (příkazový řádek pro cipísky) a postupně zadávejte následující příkazy:
 
